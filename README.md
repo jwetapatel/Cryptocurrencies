@@ -1,3 +1,4 @@
+
 # Cryptocurrencies
 
 # Overview of Project
@@ -25,6 +26,56 @@ We use the following methods for the analysis:
 We don't know what would be the output of the analysis so we are using unsupervised machine learning to identify clusters of the cryptocurrencies.
 
 We produced the elbow curve below using the K-Means method iterating on k values from 1 to 10.
+
+![Elbow_curve](https://user-images.githubusercontent.com/96400887/184929157-8d2b3d54-5f2e-4a22-813f-5e0ce7c06f71.png)
+
+The best k value appears to be 4 so we would conclude on an output of 4 clusters to categorize the crytocurrencies.
+
+### Visualizing Cryptocurrencies Results
+
+3D-Scatter plot with clusters
+
+![D4_3DPLOT](https://user-images.githubusercontent.com/96400887/184929428-36656df1-65cf-4bbf-9f35-b3490d5199d4.png)
+
+This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
+
+2D-Scatter plot with clusters
+
+![D4_HVPLOT](https://user-images.githubusercontent.com/96400887/184929545-bae6e35e-89a3-499e-97df-f0382ada7d48.png)
+
+This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components.
+
+Both these scatter plots show the distribution and the four clusters of cryptocurrencies.
+We can identify the outliers like the unique cryptocurrency in the class #2.
+
+### Tradable Cryptocurrencies Table
+
+![D4_NEW_DF](https://user-images.githubusercontent.com/96400887/184929682-29110978-1a3e-4319-8ca5-ef60fb2a3aba.png)
+
+Most of the cryptocurrencies are part of class #0 and #1.
+The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
