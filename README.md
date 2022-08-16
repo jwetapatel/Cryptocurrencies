@@ -53,10 +53,6 @@ We can identify the outliers like the unique cryptocurrency in the class #2.
 ![D4_TABLE](https://user-images.githubusercontent.com/96400887/184929982-71481d42-9c21-4be9-bca0-178137a397e8.png)
 
 
-
-Most of the cryptocurrencies are part of class #0 and #1.
-The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
-
 # Summary
 
 We have identified the classification of 532 cryptocurrencies based on similarities of their features.
