@@ -50,7 +50,8 @@ We can identify the outliers like the unique cryptocurrency in the class #2.
 
 ### Tradable Cryptocurrencies Table
 
-![D3_CLUSTERED_DF](https://user-images.githubusercontent.com/96400887/184929892-8e050a35-a4e8-47ef-87c5-a7c412122c94.png)
+![D4_TABLE](https://user-images.githubusercontent.com/96400887/184929982-71481d42-9c21-4be9-bca0-178137a397e8.png)
+
 
 
 Most of the cryptocurrencies are part of class #0 and #1.
